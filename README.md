@@ -1,2 +1,2 @@
 # Description
-A project about MST in Lisp and Prolog
+A University project about MST in Lisp and Prolog
