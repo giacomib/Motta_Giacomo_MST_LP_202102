@@ -1,2 +1,2 @@
-# Motta_Giacomo_MST_LP_202102
+# Description
 A project about MST in Lisp and Prolog
